@@ -33,7 +33,7 @@ fun main() {
     fun fun2() : Boolean{
     println("fun2")
     return false
-    
+
     if (fun1() || fun2()) {
         println("본문")
 
