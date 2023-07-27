@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7eacc5-1dd4-40fb-b2c0-a362be62efef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec03/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec03/Lec03Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec04/JavaMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec04/Lec04Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec04/Lec04Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec04/Money.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec05/Lec05Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec05/Lec05Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec06/Lec06Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec06/Lec06Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec07/FilePrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec07/JavaFilePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec07/Lec07Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec07/Lec07Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/school/lec03/Lec03Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/school/lec03/Lec03Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -94,7 +94,7 @@
       <workItem from="1690177447620" duration="2897000" />
       <workItem from="1690180741725" duration="654000" />
       <workItem from="1690257367169" duration="6925000" />
-      <workItem from="1690272685536" duration="10252000" />
+      <workItem from="1690272685536" duration="18699000" />
     </task>
     <servers />
   </component>
